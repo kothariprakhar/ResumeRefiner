@@ -1,0 +1,5 @@
+{
+  "name": "RecruiterAI - Resume Tailor",
+  "description": "An intelligent agent that acts as a top-tier recruiter. Upload your resume and job description to get a tailored analysis, keyword gaps, and impressive rewrite suggestions to maximize your interview chances.",
+  "requestFramePermissions": []
+}
